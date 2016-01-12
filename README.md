@@ -1,7 +1,5 @@
 Yelp Dataset Challenge
 ======================
 
-High­level Business Task:​Briefly describe a number of services, products, or campaigns that could use machine learning to help increase the number of Yelp! reviewers.
-
-Data Exploration & Summary Tasks: ​Provide a summary of the data & any interesting observations that you would point­out or get clarification on.
+Exploratory data analysis with [IPython](http://ipython.org/), [GraphLab](https://dato.com/products/create/) and [data from Yelp](http://www.yelp.com/dataset_challenge/)!
 
